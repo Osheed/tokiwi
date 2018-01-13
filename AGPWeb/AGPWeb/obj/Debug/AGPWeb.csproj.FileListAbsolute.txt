@@ -1,0 +1,2 @@
+C:\Users\Helder\source\Workspaces\2017-tokiwi\AGPWeb\AGPWeb\obj\Debug\AGPWeb.csprojResolveAssemblyReference.cache
+C:\Users\Helder\source\Workspaces\2017-tokiwi\AGPWeb\AGPWeb\obj\Debug\AGPWeb.csproj.CoreCompileInputs.cache
